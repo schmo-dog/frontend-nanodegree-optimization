@@ -17,4 +17,6 @@ Optimized by use of element lookup.
 
 How this was done:
 
-Took calculation of dx and newWidth out of for loop and optimized by use of element lookup.
+Took calculation of dx and newWidth out of for loop.
+
+Optimized by use of element lookup.
