@@ -5,6 +5,7 @@ There are two optomizations made within main.js
 
 1.Optomizing the Frames per Second (fps) when the user scrolls down the page and the pizzas move. The fps need to be 60 or higher.
 How this was done: 
+  
   Took calulation of phase outside of for loop and placed the consistant 5 numbers to reference in an array and optimized by use of element lookup.
 
 2. Optomize the time it takes to resize the pizzas. The target is under 5ms.
