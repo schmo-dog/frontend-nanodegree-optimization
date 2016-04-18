@@ -10,7 +10,7 @@ Reduced the amount of pizzas that were being made down to 24.
 ⋅*Took calulation of phase outside of for loop and placed the consistant 5 numbers to reference in an array.
 ⋅*Optimized by use of element lookup.
 
-1. Optomize the time it takes to resize the pizzas. The target is under 5ms.
+2. Optomize the time it takes to resize the pizzas. The target is under 5ms.
 
 How this was done: 
   Took calculation of dx and newWidth out of for loop and optimized by use of element lookup.
