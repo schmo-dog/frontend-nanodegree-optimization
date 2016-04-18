@@ -15,6 +15,6 @@ Optimized by use of element lookup.
 
 #####-Optomize the time it takes to resize the pizzas. The target is under 5ms.
 
--How this was done:
+How this was done:
 
 Took calculation of dx and newWidth out of for loop and optimized by use of element lookup.
